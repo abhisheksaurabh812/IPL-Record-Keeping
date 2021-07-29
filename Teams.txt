@@ -1,0 +1,9 @@
+8
+Mumbai Indians,14,9,5,0
+Chennai Super Kings,14,9,5,0
+Delhi Capitals,14,9,5,0
+Sunrisers Hyderabad,14,6,8,0
+Kolkata Knight Riders,14,6,8,0
+Kings XI Punjab,14,8,6,0
+Rajasthan Royals,13,5,8,0
+Royal Challengers Bangalore,14,5,8,1

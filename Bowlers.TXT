@@ -1,0 +1,8 @@
+7
+Ishant Sharma,12,12,,2.3,2,3
+Mohammad Shami,12,12,,2.3,2,3
+Piyush Chawla,12,12,,2.3,2,3
+Brett Lee,12,12,,2.3,2,3
+Dale Steyn,12,12,,2.3,2,3
+Murlidharan,12,12,,2.3,2,3
+Praveen Kumar,12,12,1,2.3,2,3

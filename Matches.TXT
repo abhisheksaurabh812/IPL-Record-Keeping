@@ -1,0 +1,5 @@
+4
+Mumbai Indians,Chennai Super Kings
+Delhi Capitals,Sunrisers Hyderabad
+Kolkata Knight Riders,Kings XI Punjab
+Rajasthan Royals,Royal Challengers Bangalore
